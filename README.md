@@ -16,7 +16,9 @@ pip install -r requirements.txt
 
 Go to the script directory and run this command in a terminal:
 
-```python .\run.py```
+```
+python .\run.py
+```
 
 * As soon as you run this script, it will connect your webcam and start drawing rectangles around all image faces and other objects specified in the description of this readme.
 * To close the program, simply press the ```q``` button.
